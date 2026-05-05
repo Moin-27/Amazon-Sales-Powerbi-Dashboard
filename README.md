@@ -28,6 +28,14 @@ This project showcases an interactive Amazon Sales Dashboard built in Power BI t
 
 ---
 
+## ⭐ Project Highlights
+- Built end-to-end dashboard from raw dataset
+- Applied data cleaning and transformation
+- Created interactive visuals and filters
+- Delivered actionable business insights
+
+---
+
 ## 🛠️ Tools & Technologies
 - Power BI  
 - Data Visualization  
