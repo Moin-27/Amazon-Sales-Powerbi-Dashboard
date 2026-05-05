@@ -80,3 +80,9 @@ Full dashboard (PDF): [Download Here](Amazon_Sales_Dashboard.pdf)
 
 ## 📎 Project Description
 An end-to-end Power BI dashboard project demonstrating data analysis, visualization, and storytelling skills using a real-world inspired dataset.
+
+---
+
+## 👤 Author
+**Moin Ahmed**  
+🔗 GitHub: https://github.com/your-username
