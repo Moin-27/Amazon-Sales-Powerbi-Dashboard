@@ -84,5 +84,6 @@ An end-to-end Power BI dashboard project demonstrating data analysis, visualizat
 ---
 
 ## 👤 Author
+
 **Moin Ahmed**  
-🔗 GitHub: https://github.com/Moin-27
+🔗 [GitHub Profile](https://github.com/Moin-27)
