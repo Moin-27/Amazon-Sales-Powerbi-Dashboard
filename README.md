@@ -93,7 +93,15 @@ An end-to-end Power BI dashboard project demonstrating data analysis, visualizat
 
 ---
 
-## 👤 Author
+# 👨‍💻 Author
 
-**Moin Ahmed**  
-🔗 [GitHub Profile](https://github.com/Moin-27)
+**Moin Ahmed**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/moin-ahmed27/
+
+🔗 GitHub:  
+https://github.com/Moin-27
+
+🌐 Portfolio:  
+https://moin-27.github.io/Portfolio/
