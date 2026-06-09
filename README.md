@@ -1,95 +1,57 @@
 # Amazon Sales Performance Dashboard (Feb–Apr 2025)
 
-## 📊 Overview
+## 📌 Project Overview
 This project showcases an interactive Amazon Sales Dashboard built in Power BI to analyze sales performance over a three-month period (Feb–Apr 2025). The dashboard provides clear insights into sales trends, customer behavior, and business performance to support data-driven decision-making.
 
 ---
 
-## 📌 Key Metrics
-- **Total Sales:** ₹244K  
-- **Total Quantity Sold:** 714  
-- **Total Orders:** 250  
+## 📊 Dashboard Views & Screenshots
+
+### 1. Amazon Sales Dashboard
+*An interactive overview of sales trends, category-wise performance, and order status breakdown.*
+![Amazon Sales Dashboard](dashboard.png)
 
 ---
 
-## 🚀 Features
-- 📈 Monthly Sales Trend Analysis  
-- 📊 Category-wise Sales Performance  
-- 🥧 Payment Method Distribution  
-- 📦 Order Status Breakdown (Completed, Pending, Cancelled)  
-- 🎛️ Interactive Filters (Category, Payment Method, Status)  
+## 📈 Key KPIs Tracked
+* **Total Sales**: ₹244K (Total revenue generated over the period).
+* **Total Quantity Sold**: 714 units (Volume of items purchased).
+* **Total Orders**: 250 orders (Total number of transactions completed).
 
 ---
 
-## 💡 Key Insights
-- 📉 Sales dropped significantly in April  
-- 🥇 Electronics is the top-performing category  
-- 💳 PayPal is the most preferred payment method  
+## 🔍 Key Insights & Analysis
+1. **Sales Trends**: Sales dropped significantly in April compared to the previous months.
+2. **Category Performance**: Electronics emerged as the top-performing category.
+3. **Payment Preferences**: PayPal was the most preferred payment method among customers.
+4. **Order Status**: The breakdown of orders shows completed, pending, and cancelled states for transaction monitoring.
 
 ---
 
-## ⭐ Project Highlights
-- Built end-to-end dashboard from raw dataset
-- Applied data cleaning and transformation
-- Created interactive visuals and filters
-- Delivered actionable business insights
+## 🛠️ Features & Highlights
+* **End-to-End Development**: Built the dashboard entirely from a raw, simulated Amazon sales dataset.
+* **Data Prep**: Applied data cleaning and transformation in Power Query.
+* **Interactive Design**: Created interactive visuals, KPI cards, pie charts, and custom slicers (Category, Payment Method, Status).
+* **Business Insights**: Identified payment preferences and sales trends to support strategic planning.
 
 ---
 
-## 🛠️ Tech Stack
-- Power BI
-- Power Query
-- Excel / CSV
-- Data Cleaning
-- Data Visualization
+## 📂 Project Structure
+```text
+Amazon-Sales-Powerbi-Dashboard/
+│
+├── Dataset.csv                      # Raw Amazon Sales Dataset
+├── Amazon_Sales_Dashboard.pbix       # Power BI Workbook
+├── Amazon_Sales_Dashboard.pdf        # Dashboard Export (PDF)
+├── dashboard.png                    # Dashboard Preview Image
+└── README.md                        # Project Documentation
+```
 
 ---
 
-## 🗂️ Dataset
-- Source: Sample / simulated Amazon sales dataset  
-- Time Period: Feb – Apr 2025  
-- Fields: Date, Category, Product, Price, Quantity, Payment Method, Status, Total Sales  
+## 🌐 Interactive Links & Downloads
 
----
-
-## 📌 Dashboard Components
-- KPI Cards (Total Sales, Quantity, Orders)  
-- Line Chart (Sales Trend by Month)  
-- Bar Chart (Sales by Category)  
-- Pie Chart (Payment Method Distribution)  
-- Bar Chart (Order Status Breakdown)  
-- Slicers (Category, Payment Method, Status)  
-
----
-
-## 💼 Business Use Case
-This dashboard can help businesses:
-- Track monthly sales performance  
-- Identify top-selling product categories  
-- Understand customer payment preferences  
-- Monitor order completion and cancellations  
-
----
-
-## ▶️ How to Use
-1. Download the `.pbix` file from this repository  
-2. Open it using Power BI Desktop  
-3. Use filters (Category, Payment Method, Status) to explore insights  
-
----
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
-## 📄 Download
-Full dashboard (PDF): [Download Here](Amazon_Sales_Dashboard.pdf)
-
----
-
-## 📎 Project Description
-An end-to-end Power BI dashboard project demonstrating data analysis, visualization, and storytelling skills using a real-world inspired dataset.
+🔗 [Download Dashboard PDF](Amazon_Sales_Dashboard.pdf)
 
 ---
 
@@ -97,11 +59,7 @@ An end-to-end Power BI dashboard project demonstrating data analysis, visualizat
 
 **Moin Ahmed**
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/moin-ahmed27/
-
-🔗 GitHub:  
-https://github.com/Moin-27
-
-🌐 Portfolio:  
-https://moin-27.github.io/Portfolio/
+* 🔗 **LinkedIn**: [linkedin.com/in/moin-ahmed27](https://www.linkedin.com/in/moin-ahmed27/)
+* 💻 **GitHub**: [github.com/Moin-27](https://github.com/Moin-27)
+* 📊 **Tableau Public**: [public.tableau.com/app/profile/moin.ahmed27](https://public.tableau.com/app/profile/moin.ahmed27)
+* 🌐 **Portfolio**: [moin-27.github.io/Portfolio](https://moin-27.github.io/Portfolio/)
