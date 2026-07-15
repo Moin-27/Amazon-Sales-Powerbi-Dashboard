@@ -1,25 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Amazon Sales Performance Dashboard (Feb–Apr 2025)
 
 ## 📌 Project Overview
